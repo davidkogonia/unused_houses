@@ -1,3 +1,2 @@
 # unused_houses
-
-Вы можете использовать этот запрос rest_api для поиска неиспользуемых домов в биллинге netup utm5. Вам нужно только сменить токен и ссылку
+You can use this rest_api query to search for unused houses in netup utm5 billing. You only need to change the token and the link
